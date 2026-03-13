@@ -1,11 +1,21 @@
-// Consigna
 /*
+Consigna:
+
 1) Ingrese a Zinjai
 2) Cree un nuevo programa en C.
 3) Ingrese el siguiente código (imagen).
 4) Observe las líneas de códigos y trate de entender que es lo que se ejecuta en cada una de ellas.
 5) Compile el código fuente recién ingresado.
 6) Ejecute el proyecto.
+
+¿Es lo esperado?
+
+Sí. El programa solicita al usuario un importe sin IVA,
+calcula el impuesto aplicando el 22% y luego muestra:
+1) El valor del IVA calculado
+2) El importe final con IVA incluido.
+
+Por lo tanto el programa funciona correctamente y cumple con el objetivo planteado
 */
 
 #include <stdio.h>      // Librería estándar de entrada y salida (printf, scanf)
@@ -36,4 +46,5 @@ int main(int argc, char *argv[]) {   // Función principal donde comienza el pro
     printf ("Gracias por por utilizar INICIAL 1.0!!!\n\n");
 
     return 0;   // Indica que el programa terminó correctamente
+
 }
