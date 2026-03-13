@@ -20,7 +20,7 @@ Cuántos errores encontraste?
 5) Compile y ejecute el programa.
 
 Respuestas:
-Errores encontrados:
+Errores encontrados: Se encontraron 5 errores en el código original.
 // Error 1: printf(Valor Base: ); → falta poner el texto entre comillas.
 // Error 2: Falta pedir el valor de "altura" con scanf.
 // Error 3: La variable "area" no fue declarada.
